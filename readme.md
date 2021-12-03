@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Instatus</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,23 +13,25 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Open your page
+2. Navigate to Page settings
+3. Under Brand > Status Colors, put in the following values:
+Operational: #31748F
+Major outage: #EB6F92
+Maintenance: #3A384A
+Degraded performance: #F6C177
+Partial outage: #EBBCBA
+Service not started: #E0DEF4
+4. Click Save
+5. Under Html > Custom CSS, paste in the contents of `custom.css`
+6. Scroll to the bottom and click Save
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+### As featured by default on https://voringme.instatus.com/
+
+![Screenshot_2021-12-03-12-03-55_2560x1440](https://user-images.githubusercontent.com/44733677/144665828-26e0dbfc-9193-4fba-b8db-7899569e812b.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [ThatOneCalculator](https://t1c.dev)
