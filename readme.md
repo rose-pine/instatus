@@ -16,12 +16,17 @@
 1. Open your page
 2. Navigate to Page settings
 3. Under Brand > Status Colors, put in the following values:
-Operational: #31748F
-Major outage: #EB6F92
-Maintenance: #3A384A
-Degraded performance: #F6C177
-Partial outage: #EBBCBA
-Service not started: #E0DEF4
+> Operational: #31748F
+> 
+> Major outage: #EB6F92
+> 
+> Maintenance: #3A384A
+> 
+> Degraded performance: #F6C177
+> 
+> Partial outage: #EBBCBA
+> 
+> Service not started: #E0DEF4
 4. Click Save
 5. Under Html > Custom CSS, paste in the contents of `custom.css`
 6. Scroll to the bottom and click Save
